@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <string name="google_maps_key">AIzaSyA0kbPmqE4xgpddW1W4kaP4qntwJw_m-ok</string>
+
+    <string name="cat_landmark">Landmarks</string>
+    <string name="cat_museum">Museums</string>
+    <string name="cat_bars">Bars</string>
+    <string name="cat_restaurants">Restaurants</string>
+
+    <string name="acropolis_title">Acropolis</string>
+    <string name="acropolis_short_desc">Not much to say.. It speaks for itself</string>
+    <string name="acropolis_desc">Acropolis is the "main event" of Athens. Everyone and everything revolves around it. From fridge magnets to t-shirts.
+    Can’t blame them though. It is a monument worth seeing despite the ticket’s high price. The view from the temple is stunning and the architecture is unique after thousands of years.
+    The temple has a lot of damages due to wars that came and go all these years and the government tries to fix them daily, so the construction tools and vehicles in the area are a "party killer".. at least for me.</string>
+    <string name="acropolis_web">https://en.wikipedia.org/wiki/Acropolis_of_Athens</string>
+    <string name="acropolis_location">http://maps.google.co.in/maps?q=37.9716591, 23.7246549</string>
+
+    <string name="soldier_title">Tomb of the Unknown Soldier</string>
+    <string name="soldier_short_desc">A war memorial located in Syntagma Square</string>
+    <string name="soldier_web">https://en.wikipedia.org/wiki/Tomb_of_the_Unknown_Soldier_(Athens)</string>
+    <string name="soldier_desc">Located in Syntagma square and in front of the Greek Parliament it commemorates the deaths of the soldiers lost in periods of war.
+    It is guarded by soldiers wearing traditional war clothing standing perfectly still. The best time to be around is when they change shifts! Their accuracy and timing is extraordinary is you think that
+    they were trained in about 1-2 months for this!</string>
+    <string name="soldier_location">http://maps.google.co.in/maps?q=37.975342,23.7341668</string>
+
+    <string name="stadium_title">Panathenaic Stadium</string>
+    <string name="stadium_web">http://www.panathenaicstadium.gr/HomePage/tabid/84/language/en-US/Default.aspx</string>
+    <string name="stadium_location">http://maps.google.co.in/maps?q=37.9683342,23.7389231</string>
+    <string name="stadium_short_desc">The Panathenaic Stadium or Kallimarmaro is a multi-purpose stadium in Athens, Greece.</string>
+    <string name="stadium_desc">The Panathenaic Stadium is located on the site of an ancient stadium and for many centuries hosted games in which nude male athletes
+        competed (gymnikoi agones) in track events, athletics championships as we would call them today. The games, which since antiquity had been held in an
+        area far from the city, were included in the programme of the Panathenaia festival celebrations in 566/565 BC. The location is not far from the center and the National Garden is just a block
+    away, so try to combine the visits.</string>
+
+    <string name="theater_title">Odeon of Herodes Atticus</string>
+    <string name="theater_web">https://en.wikipedia.org/wiki/Odeon_of_Herodes_Atticus</string>
+    <string name="theater_location">http://maps.google.co.in/maps?q=37.9707076,23.7240869</string>
+    <string name="theater_short_desc">A stone theatre structure located on the southwest of the Acropolis</string>
+    <string name="theater_desc">The Odeon of Herodes Atticus in Athens: Built at the base of the Acropolis, the ancient amphitheatre of Herodeion,
+        also known as the Odeon of Herodus Atticus, is today one of the best places to experience a live classical theatre performance. This ancient
+        theater was built in the Roman times, in about 161 A.D. by the Roman philosopher, teacher and politician Herodes Atticus. It was
+        built in the memory of his wife Aspasia Regilla who died in 160 AD. \n\nThis semi-circular amphitheater has a wide 1,250 feet radius with
+        a seating capacity of more than 6,000 people. One of the most famous ancient structures of Greece that hosts a lot of concerts till this day
+    ,including Foo Fighters (November 2017) where they performed live for the "Landmarks Live in Concert" documentary.</string>
+
+    <string name="garden_title">National Garden</string>
+    <string name="garden_location">http://maps.google.co.in/maps?q=37.972939,23.737441</string>
+    <string name="garden_web">https://en.wikipedia.org/wiki/National_Garden,_Athens</string>
+    <string name="garden_short_desc">Escape from the center’s noise by exploring Greece’s Flora and Fauna.</string>
+    <string name="garden_desc">So close to everything, yet it seems like you’re at the countryside. A huge park full of plants and animals that makes it unique in any way. Either you love nature
+    or want to escape from the daily stress this is the best solution. It also has a traditional cafe inside for the thirsty visitors but i would advise keeping a bottle with you at all times.</string>
+
+    <string name="benaki_title">Benaki Museum</string>
+    <string name="benaki_location">http://maps.google.co.in/maps?q=37.9741673,23.7061139</string>
+    <string name="benaki_web">https://www.benaki.gr/index.php?lang=en</string>
+    <string name="benaki_short_desc">The Benaki Museum, established and endowed in 1930 by Antonis Benakis in memory of his father Emmanuel Benakis</string>
+    <string name="benaki_desc">The Benaki Museum was founded in 1930 by Antonis Benakis and presents the historical and cultural development of
+        the Greek nation. \n\nThrough its extensive collections that cover several different cultural fields –from the age of Roman domination to
+        the medieval Byzantine period and from the fall of Constantinople to the struggle for Greek independence in 1821- the Benaki Museum
+        is perhaps the sole instance of a complex structure within the broader network of museum foundations in Greece.</string>
+
+    <string name="acropolis_museum_title">Acropolis Museum</string>
+    <string name="acropolis_museum_web">http://www.theacropolismuseum.gr/en</string>
+    <string name="acropolis_museum_location">http://maps.google.co.in/maps?q=37.9684499,23.726334</string>
+    <string name="acropolis_museum_short_desc">Located under Acropolis, this museum has.. </string>
+    <string name="acropolis_museum_desc">Located under Acropolis, this museum has everything you need to know about ancient Greece.
+        The monuments of the Acropolis have withstood the ravages of past centuries, both of ancient times and those of
+        the Middle Ages. Today, the new Acropolis Museum has a total area of 25,000 square meters, with exhibition space of over 14,000 square meters, ten
+        times more than that of the old museum on the Hill of the Acropolis. The new Museum offers all the amenities expected in an international museum of
+        the 21st century.</string>
+
+    <string name="war_title">War Museum</string>
+    <string name="war_location">http://maps.google.co.in/maps?q=37.9753824,23.7431509</string>
+    <string name="war_web">http://www.warmuseum.gr/en</string>
+    <string name="war_short_desc">The Athens War Museum, established on July 18, 1975, is the museum of the Greek Armed Forces.</string>
+    <string name="war_desc">In 1964, the Hellenic State decided to found the War Museum, wishing to honor all those who fought for our country and its
+        freedom.The design of the museum was undertaken by a team of distinguished scientists, headed by Professor Thoukidides Valentis of the National
+        Technical university of Athens (N.T.U.A).\n\nOn July 18, 1975, the President of the Hellenic Republic H.E. Constantine Tsatsos and the Minister of
+        National Defense Evangelos Averof-Tositsas inaugurated the Museum.Its various activities include the publication of books, the establishment and
+        maintenance of monuments and memorials and the aid to services and agencies all over Greece.\n\nThe Museum’s exhibition areas are distributed over four
+        levels (floors) and present images of Greek history from antiquity to the present.</string>
+
+    <string name="dinner_sky_title">Dinner in the Sky</string>
+    <string name="dinner_sky_location">http://maps.google.co.in/maps?q=37.9784869,23.7104029</string>
+    <string name="dinner_sky_web">https://dinnerinthesky.gr/en/</string>
+    <string name="dinner_sky_short_desc">A unique dining experience in the center of Athens - Greece. Something you will always remember. </string>
+    <string name="dinner_sky_desc">An extraordinary culinary proposal -in the center of Athens- welcomes you! A table for 22 people, along with our
+        experienced chefs who are preparing a 5 course menu, lifts you up to 50 meters and offers once in a life time experience over the city.</string>
+
+    <string name="hothot_title">Hot Hot Burger</string>
+    <string name="hothot_web">https://www.hothotburger.gr/</string>
+    <string name="hothot_location">http://maps.google.co.in/maps?q=38.005933,23.748332</string>
+    <string name="hothot_short_desc">Are you looking for the Best Burgers in Syntagma?</string>
+    <string name="hothot_desc">If you are looking for fast cheap AND tasty burgers in the center of Athens this is the place for you!
+    Prices starting from 2-2.5 euros, this place has everything! And as a bonus it is open almost all day.
+    Every place has a speciality and this ones is the burgers so leave the potatoes for another time.</string>
+
+    <string name="maya_title">Taqueria Maya</string>
+    <string name="maya_web">http://www.taqueriamaya.com/</string>
+    <string name="maya_location">http://maps.google.co.in/maps?q=37.9755981,23.7310708</string>
+    <string name="maya_short_desc">Try foreign cuisine while you are here.</string>
+    <string name="maya_desc">Are you in for original mexican cuisine? This restaurant even thought it is a self-service, raises a lot your expectations.
+    You start by choosing how you want it prepared (tacos, burrito, salad or bowl style) and then you choose from a variety of ingredients, either meat (about 5 different styles), fish or vegetables..
+    Then you chose how spicy will it be. WARNING! Do NOT try the last 2 levels of hotness if you are not familiar with mexican spicy food!!! </string>
+
+    <string name="psarras_title">Psarras</string>
+    <string name="psarras_web">http://www.psaras-taverna.gr/</string>
+    <string name="psarras_location">http://maps.google.co.in/maps?q=37.9729061,23.7263618</string>
+    <string name="psarras_short_desc">Plakas oldest restaurant continues to receive connoisseurs of the finest that Greek traditional cuisine has to offer</string>
+    <string name="psarras_desc">It is a classical tavern that remains for over two decades a meeting point of all those seeking
+        to combine the Greek cuisine to the culture of the historical Athenian center. \n\nThe indoor area is friendly and cozy. Ideal for
+        business lunches, dinners and small group events. \n\nDuring summer, the picturesque alley becomes the pavilion of Psaras offering an authentic
+        experience to your guests.</string>
+
+    <string name="speakeasy_title">Speakeasy</string>
+    <string name="speakeasy_web">https://www.facebook.com/TheSpeakeasyAthens/?rf=760383973976510</string>
+    <string name="speakeasy_location">http://maps.google.co.in/maps?q=37.976813,23.732056</string>
+    <string name="speakeasy_short_desc">Hidden in plain sight!</string>
+    <string name="speakeasy_desc">Very close from Syntagma on foot, there is an alley called Lekka. Going down that road you will see a lot of bars simple in style and good enough
+    if you want to chill from the daily routine. Among those is the famous Speakeasy! The entrance cannot be found easily which is the meaning of the name.
+        (Speakeasy was an illicit establishment that sells alcoholic beverages. \n\nDuring the Prohibition era). You ring a bell from what is seems to be a house, the door open and after you go down the stairs
+        and open the old door, you find a magnificent jazz bar! That is what i call a good Marketing team!</string>
+
+    <string name="berlin_title">Berlin by 5 Drunk Men</string>
+    <string name="berlin_web">http://www.berlinby5drunkmen.gr/</string>
+    <string name="berlin_location">http://maps.google.co.in/maps?q=37.968403,23.750754</string>
+    <string name="berlin_short_desc">Tap Beer on your table a few minutes away from the center.</string>
+    <string name="berlin_desc">Moving from my home to another made me want to explore the area to find new places to relax. One of them was found in an alley not far from my new home. I was stunned when
+        i found out that each table had a tap of it’s own! The bar is also organizing each year a "festival" where it brings new bottles or drafts each summer to try them all!</string>
+
+    <string name="bartesera_title">Bartesera</string>
+    <string name="bartesera_web">https://www.facebook.com/bartesera/</string>
+    <string name="bartesera_location">http://maps.google.co.in/maps?q=37.977544,23.731088</string>
+    <string name="bartesera_short_desc">Cocktails,High Quality Coffee and great environment all in one place</string>
+    <string name="bartesera_desc">Walking to the small alleys in Athens can be awesome, as you discover something new everyday. This gem is found about 5 minutes from the center square in an arcade.
+    A lot of space and shiny even though it's closed from above.</string>
+
+    <string name="dogs_title">Six d.o.g.s</string>
+    <string name="dogs_web">https://sixdogs.gr/</string>
+    <string name="dogs_location">http://maps.google.co.in/maps?q=37.9774684,23.7246229</string>
+    <string name="dogs_short_desc">Six d.o.g.s is the favorite place to hang out for fans of the underground techno scene. </string>
+    <string name="dogs_desc">This highly avant garde locale, situated in the business centre of Athens, is actually a day/all
+        night cultural centre which can host live gigs, performances, exhibitions, shows and parties. Open from 10 a.m. until late, with free Wi Fi,
+        a cool garden for the summer months and reasonable prices. \n\nThe cafe and bar are popular for the interesting cocktails and drinks and the menu is based on seasonal
+        produce. Ice teas, homemade desserts, bagels, soups, draught beers, specially blended vodkas and much more, in a laid back space.</string>
+
+    <string name="couleur_title">Couleur Locale</string>
+    <string name="couleur_web">http://www.couleurlocaleathens.com/</string>
+    <string name="couleur_location">http://maps.google.co.in/maps?q=37.976674,23.7242873</string>
+    <string name="couleur_short_desc">Now that is what i call a view.</string>
+    <string name="couleur_desc">Stand on a roof of a building drinking a cocktail and enjoying the view of Acropolis surrounded by colors. During the day it works as a cafe but in the night
+    it transforms to something unique! The lights, the drinks, the view, everything combined makes this place of my favourite in the center of Athens. The entrance is a bit tricky as you pass through
+    a lot of stores selling old stuff or antiques. </string>
+
+    <string name="location">Location</string>
+    <string name="web">Web Page</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
